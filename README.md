@@ -2,7 +2,19 @@
 description: 'actionable advice for a upstanding, healthy, virtuous, and enjoyable life.'
 ---
 
-# life\_instructions
+# true and honest advice from the pros
+
+## generally good advice
+
+Cultivating universal compassion is a way to a healthier, happier life.
+
+To rid yourself of your prejudices, go out and experience new things.
+
+## productivity
+
+Use a Projects list to keep track of your current projects and always insist on clear next actions.
+
+Choose what to do in each moment based on the current situation and your priorities.
 
 ## Fundamental Techniques in Handling People
 
@@ -46,13 +58,8 @@ description: 'actionable advice for a upstanding, healthy, virtuous, and enjoyab
 8. Use encouragement. Make the fault seem easy to correct.
 9. Make the other person happy about doing what you suggest.
 
-## Seven Rules For Making Your Home Life Happier
+## Tips & Tricks learned from years of experience (& regret)
 
-1. Don't nag.
-2. Don't try to make your partner over.
-3. Don't criticize.
-4. Give honest appreciation.
-5. Pay little attentions.
-6. Be courteous.
-7. Read a good book on the sexual side of marriage.
+- Make it a habit to always, ALWAYS check your pockets for your phone, wallet and keys whenever you get up from sitting.
+- When opening mail, check the stamp for “PRSRT STD”. This is almost always junk mail.
 
