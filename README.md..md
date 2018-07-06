@@ -1,7 +1,3 @@
----
-description: 'actionable advice for a upstanding, healthy, virtuous, and enjoyable life.'
----
-
 # true and honest advice from the pros
 
 ## generally good advice
